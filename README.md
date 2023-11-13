@@ -17,6 +17,6 @@ To use bash script, follow these steps:
 2.3  Run the program using the "./ping.sh" command.
 
 # LICENSE
-This project is licensed under the [MIT License][0]. Please check the license file for details.
+This project is licensed under the MIT License. Please check the [license file][0] for details.
 
 [0]:https://github.com/yilmazustuntas/Bash-Based-Automatic-Ping-for-IP-Addresses/blob/main/LICENSE
